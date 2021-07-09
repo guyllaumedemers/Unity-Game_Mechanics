@@ -7,6 +7,7 @@ public class PlayerController : MonoBehaviour
     public static PlayerController Instance;
     PlayerInputActions inputs;
     Animator anim;
+    ComboSystem cbo;
 
     private const float speed = 50.0f;
 
@@ -26,14 +27,10 @@ public class PlayerController : MonoBehaviour
 
     /****************ACTIONS*****************/
 
-    private void RegisterKey(InputKey key)
-    {
-        // register the value to the event queue handle by the combo system
-        //
-        // how would i go about registering the player movement from the d-pad but also switch from simple movement to registering the direction pressed
-    }
+    private void RegisterKey(InputKey key) => cbo.Add(key);
 
-    // will handle later the diagonal values of combining dpad values
+#if TODO // Add the diagonals values later => example : UP-LEFT = Jump back 
+#endif
     private InputKey GetDPadDirection()
     {
         Vector2 dir = inputs.Player.Dir_pad.ReadValue<Vector2>();
@@ -44,6 +41,8 @@ public class PlayerController : MonoBehaviour
         throw new System.ArgumentOutOfRangeException();
     }
 
+#if TODO // How to handle movement if dpad register direction => check for previous input inside the combo list first => or handle animation cancellation
+#endif
     private void Move()
     {
         Vector2 move = inputs.Player.Dir_pad.ReadValue<Vector2>();
