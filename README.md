@@ -19,4 +19,4 @@ NOTE : This project is broken down into multiples folders, each representing a s
 NOTE : Scripts created by myself can be found here.
 ```
 
-* [Assets/Scripts/..] All scripts for the Combo System.
+* [ComboSystem/Assets/Scripts/..](https://github.com/guyllaumedemers/Unity-Game_Mechanics/tree/master/Unity-Fighting_Mechanics/Assets/Scripts) All scripts for the Combo System.
