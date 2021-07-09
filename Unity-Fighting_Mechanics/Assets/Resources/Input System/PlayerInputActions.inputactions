@@ -6,10 +6,42 @@
             "id": "8b8103e0-a792-402f-bb14-71f72374be3e",
             "actions": [
                 {
-                    "name": "Move",
+                    "name": "Dir_pad",
                     "type": "Value",
                     "id": "122ace80-34e4-40fd-86c9-4b46e984f579",
                     "expectedControlType": "Dpad",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "ActionButton_1",
+                    "type": "Button",
+                    "id": "d0b27d7c-ca09-4ce5-930e-7c8a52fc21ea",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "ActionButton_2",
+                    "type": "Button",
+                    "id": "18559a93-38fd-4af6-8765-4b69c2c80d4b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "ActionButton_3",
+                    "type": "Button",
+                    "id": "3e277344-49c8-4042-8841-42f721a37995",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "ActionButton_4",
+                    "type": "Button",
+                    "id": "28122f94-177a-4db8-a1de-a1400c130f0b",
+                    "expectedControlType": "Button",
                     "processors": "",
                     "interactions": ""
                 }
@@ -22,7 +54,51 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "Gamepad",
-                    "action": "Move",
+                    "action": "Dir_pad",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e86a4996-67a1-488a-8342-c40e9a1d8263",
+                    "path": "<DualShockGamepad>/buttonWest",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ActionButton_1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "732bb1b4-2b55-4333-a387-594ce9b969d3",
+                    "path": "<DualShockGamepad>/buttonNorth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ActionButton_2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "11ce7905-1854-42c0-952a-7f02a7b9d6be",
+                    "path": "<DualShockGamepad>/buttonEast",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ActionButton_3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c98d171a-51e3-460d-99e9-087385c81675",
+                    "path": "<DualShockGamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ActionButton_4",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

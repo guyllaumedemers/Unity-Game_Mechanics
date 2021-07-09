@@ -19,10 +19,42 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
             ""id"": ""8b8103e0-a792-402f-bb14-71f72374be3e"",
             ""actions"": [
                 {
-                    ""name"": ""Move"",
+                    ""name"": ""Dir_pad"",
                     ""type"": ""Value"",
                     ""id"": ""122ace80-34e4-40fd-86c9-4b46e984f579"",
                     ""expectedControlType"": ""Dpad"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""ActionButton_1"",
+                    ""type"": ""Button"",
+                    ""id"": ""d0b27d7c-ca09-4ce5-930e-7c8a52fc21ea"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""ActionButton_2"",
+                    ""type"": ""Button"",
+                    ""id"": ""18559a93-38fd-4af6-8765-4b69c2c80d4b"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""ActionButton_3"",
+                    ""type"": ""Button"",
+                    ""id"": ""3e277344-49c8-4042-8841-42f721a37995"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""ActionButton_4"",
+                    ""type"": ""Button"",
+                    ""id"": ""28122f94-177a-4db8-a1de-a1400c130f0b"",
+                    ""expectedControlType"": ""Button"",
                     ""processors"": """",
                     ""interactions"": """"
                 }
@@ -35,7 +67,51 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Gamepad"",
-                    ""action"": ""Move"",
+                    ""action"": ""Dir_pad"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""e86a4996-67a1-488a-8342-c40e9a1d8263"",
+                    ""path"": ""<DualShockGamepad>/buttonWest"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""ActionButton_1"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""732bb1b4-2b55-4333-a387-594ce9b969d3"",
+                    ""path"": ""<DualShockGamepad>/buttonNorth"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""ActionButton_2"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""11ce7905-1854-42c0-952a-7f02a7b9d6be"",
+                    ""path"": ""<DualShockGamepad>/buttonEast"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""ActionButton_3"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""c98d171a-51e3-460d-99e9-087385c81675"",
+                    ""path"": ""<DualShockGamepad>/buttonSouth"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""ActionButton_4"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 }
@@ -613,7 +689,11 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
 }");
         // Player
         m_Player = asset.FindActionMap("Player", throwIfNotFound: true);
-        m_Player_Move = m_Player.FindAction("Move", throwIfNotFound: true);
+        m_Player_Dir_pad = m_Player.FindAction("Dir_pad", throwIfNotFound: true);
+        m_Player_ActionButton_1 = m_Player.FindAction("ActionButton_1", throwIfNotFound: true);
+        m_Player_ActionButton_2 = m_Player.FindAction("ActionButton_2", throwIfNotFound: true);
+        m_Player_ActionButton_3 = m_Player.FindAction("ActionButton_3", throwIfNotFound: true);
+        m_Player_ActionButton_4 = m_Player.FindAction("ActionButton_4", throwIfNotFound: true);
         // UI
         m_UI = asset.FindActionMap("UI", throwIfNotFound: true);
         m_UI_Navigate = m_UI.FindAction("Navigate", throwIfNotFound: true);
@@ -675,12 +755,20 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
     // Player
     private readonly InputActionMap m_Player;
     private IPlayerActions m_PlayerActionsCallbackInterface;
-    private readonly InputAction m_Player_Move;
+    private readonly InputAction m_Player_Dir_pad;
+    private readonly InputAction m_Player_ActionButton_1;
+    private readonly InputAction m_Player_ActionButton_2;
+    private readonly InputAction m_Player_ActionButton_3;
+    private readonly InputAction m_Player_ActionButton_4;
     public struct PlayerActions
     {
         private @PlayerInputActions m_Wrapper;
         public PlayerActions(@PlayerInputActions wrapper) { m_Wrapper = wrapper; }
-        public InputAction @Move => m_Wrapper.m_Player_Move;
+        public InputAction @Dir_pad => m_Wrapper.m_Player_Dir_pad;
+        public InputAction @ActionButton_1 => m_Wrapper.m_Player_ActionButton_1;
+        public InputAction @ActionButton_2 => m_Wrapper.m_Player_ActionButton_2;
+        public InputAction @ActionButton_3 => m_Wrapper.m_Player_ActionButton_3;
+        public InputAction @ActionButton_4 => m_Wrapper.m_Player_ActionButton_4;
         public InputActionMap Get() { return m_Wrapper.m_Player; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -690,16 +778,40 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
         {
             if (m_Wrapper.m_PlayerActionsCallbackInterface != null)
             {
-                @Move.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnMove;
-                @Move.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnMove;
-                @Move.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnMove;
+                @Dir_pad.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnDir_pad;
+                @Dir_pad.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnDir_pad;
+                @Dir_pad.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnDir_pad;
+                @ActionButton_1.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnActionButton_1;
+                @ActionButton_1.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnActionButton_1;
+                @ActionButton_1.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnActionButton_1;
+                @ActionButton_2.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnActionButton_2;
+                @ActionButton_2.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnActionButton_2;
+                @ActionButton_2.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnActionButton_2;
+                @ActionButton_3.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnActionButton_3;
+                @ActionButton_3.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnActionButton_3;
+                @ActionButton_3.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnActionButton_3;
+                @ActionButton_4.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnActionButton_4;
+                @ActionButton_4.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnActionButton_4;
+                @ActionButton_4.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnActionButton_4;
             }
             m_Wrapper.m_PlayerActionsCallbackInterface = instance;
             if (instance != null)
             {
-                @Move.started += instance.OnMove;
-                @Move.performed += instance.OnMove;
-                @Move.canceled += instance.OnMove;
+                @Dir_pad.started += instance.OnDir_pad;
+                @Dir_pad.performed += instance.OnDir_pad;
+                @Dir_pad.canceled += instance.OnDir_pad;
+                @ActionButton_1.started += instance.OnActionButton_1;
+                @ActionButton_1.performed += instance.OnActionButton_1;
+                @ActionButton_1.canceled += instance.OnActionButton_1;
+                @ActionButton_2.started += instance.OnActionButton_2;
+                @ActionButton_2.performed += instance.OnActionButton_2;
+                @ActionButton_2.canceled += instance.OnActionButton_2;
+                @ActionButton_3.started += instance.OnActionButton_3;
+                @ActionButton_3.performed += instance.OnActionButton_3;
+                @ActionButton_3.canceled += instance.OnActionButton_3;
+                @ActionButton_4.started += instance.OnActionButton_4;
+                @ActionButton_4.performed += instance.OnActionButton_4;
+                @ActionButton_4.canceled += instance.OnActionButton_4;
             }
         }
     }
@@ -856,7 +968,11 @@ public class @PlayerInputActions : IInputActionCollection, IDisposable
     }
     public interface IPlayerActions
     {
-        void OnMove(InputAction.CallbackContext context);
+        void OnDir_pad(InputAction.CallbackContext context);
+        void OnActionButton_1(InputAction.CallbackContext context);
+        void OnActionButton_2(InputAction.CallbackContext context);
+        void OnActionButton_3(InputAction.CallbackContext context);
+        void OnActionButton_4(InputAction.CallbackContext context);
     }
     public interface IUIActions
     {
