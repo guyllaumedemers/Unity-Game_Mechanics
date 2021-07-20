@@ -13,7 +13,18 @@ NOTE : This project is broken down into multiples folders, each representing a s
 
 ## Content
 
-1.  Combo System
+* [Assets/Scripts/FlockingAI](https://github.com/guyllaumedemers/Unity-Game_Mechanics/tree/master/Unity-AI/Unity-FlockingAI/Assets/Scripts) : Flocking AI Scripts
+* [Assets/Scripts/ComboSystem](https://github.com/guyllaumedemers/Unity-Game_Mechanics/tree/master/Unity-Gameplay/Unity-Fighting_Mechanics/Assets/Scripts) : Combo System Scripts
+
+### Game Mechanics and Features
+
+*  Combo System (*WIP*)
+
+### AI
+*  Flocking AI (*WIP*)
+
+### Design Pattern and Memory Optimization
+*  Composite Pattern (*inside the Flocking AI project*)
 
 ```
 NOTE : Scripts created by myself can be found here.
