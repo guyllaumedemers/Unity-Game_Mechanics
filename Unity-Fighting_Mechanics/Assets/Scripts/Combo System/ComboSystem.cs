@@ -19,10 +19,15 @@ public class ComboSystem
 
     public void Add(InputKey input) => ll_ikey.AddLast(input);
 
-    public bool Search()
+    public bool Search(InputKey input)
     {
+        Add(input);
+        Debug.Log(input.key);
         // use the current chain of values inside the linkedlist and search for a match inside the data structure that holds all combos
+        // if the search function return false the LinkedList should be cleared
         return true;
     }
+
+    public void Clear() => ll_ikey.Clear();
 }
 

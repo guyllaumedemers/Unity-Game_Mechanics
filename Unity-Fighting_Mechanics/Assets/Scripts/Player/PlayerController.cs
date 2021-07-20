@@ -1,6 +1,4 @@
 using UnityEngine;
-using UnityEngine.InputSystem;
-using UnityEngine.InputSystem.LowLevel;
 
 public class PlayerController : MonoBehaviour
 {
@@ -17,6 +15,7 @@ public class PlayerController : MonoBehaviour
     {
         Instance = this;
         anim = GetComponent<Animator>();
+        cbo = new ComboSystem();
         inputs = new PlayerInputActions();
         inputs.Player.Dir_pad.performed += ctx => RegisterKey(GetDPadDirection());
         inputs.Player.ActionButton_1.performed += ctx => RegisterKey(new InputKey(Globals.sqr, Time.time));
@@ -27,7 +26,12 @@ public class PlayerController : MonoBehaviour
 
     /****************ACTIONS*****************/
 
-    private void RegisterKey(InputKey key) => cbo.Add(key);
+    private void RegisterKey(InputKey key)
+    {
+        Debug.Log("called");
+        if (!cbo.Search(key)) cbo.Clear();
+        // if cleared the key should be played alone
+    }
 
 #if TODO // Add the diagonals values later => example : UP-LEFT = Jump back 
 #endif
