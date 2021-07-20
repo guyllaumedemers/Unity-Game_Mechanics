@@ -235,6 +235,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52dec2a80f81d5e4e856885ded66a2c8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  starting_count: 250
+  driveFactor: 10
+  maxSpeed: 5
+  neighborRadius: 1.5
+  avoidanceRadiusMultipler: 0.5
 --- !u!4 &1375062462
 Transform:
   m_ObjectHideFlags: 0

@@ -1,17 +1,16 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "scriptable", menuName = "Flock/Behaviour/Composite")]
 public class CompositeBehaviour : FlockBehaviour
 {
+    [SerializeField]
     FlockBehaviour[] behaviours;
     public float[] weights = new float[3];
 
-    private void Awake()
+    private void Start()
     {
         behaviours = Utilities.FindResources<FlockBehaviour>(Globals.flockbehaviours_path);
-        Debug.Log(behaviours.Length);
     }
 
     public override Vector2 CalculateMove(FlockAgent currAgent, List<Transform> context, Flock flock)
@@ -35,4 +34,6 @@ public class CompositeBehaviour : FlockBehaviour
         }
         return move;
     }
+
+    public FlockBehaviour[] GetFlockBehaviours { get => behaviours; }
 }

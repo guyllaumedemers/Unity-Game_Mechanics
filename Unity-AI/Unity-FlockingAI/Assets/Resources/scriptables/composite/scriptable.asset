@@ -10,9 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7321b6e9b6a1423459d4013c0de19613, type: 3}
-  m_Name: DefaultCompositeBehaviour
+  m_Name: scriptable
   m_EditorClassIdentifier: 
+  behaviours: []
   weights:
-  - 4
-  - 1
-  - 2
+  - 0
+  - 0
+  - 0
