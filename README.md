@@ -20,10 +20,12 @@ NOTE : This project is broken down into multiples folders, each representing a s
 
 *  Combo System (*WIP*)
 
-### AI
+### AI Mechanics
+
 *  Flocking AI (*WIP*)
 
 ### Design Pattern and Memory Optimization
+
 *  Composite Pattern (*inside the Flocking AI project*)
 
 ```
