@@ -1,7 +1,7 @@
 # Unity-Game_Mechanics
 
 Welcome to Unity-Game_Mechanics, a repository containning various exercices for improving game development, mechanics and features using Unity and CSharp.
-Useful scripts are located in OpenGL-ModernGraphics/..
+Useful scripts are located in Assets/Scripts/..
 
 ## Getting Started
 
