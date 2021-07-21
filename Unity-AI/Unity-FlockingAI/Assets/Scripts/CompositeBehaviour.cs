@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// Composite
 [CreateAssetMenu(fileName = "scriptable", menuName = "Flock/Behaviour/Composite")]
 public class CompositeBehaviour : FlockBehaviour
 {
