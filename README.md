@@ -28,11 +28,11 @@ NOTE : This project has for objective of setting up in place a combo system that
 
 ### AI Mechanics
 
-*  Flocking AI (*WIP*)
+*  Flocking AI (*using the Composite Pattern*)
 
 ### Design Pattern and Memory Optimization
 
-*  Composite Pattern (*inside the Flocking AI project*)
+*  Composite Pattern
 
 ```
 NOTE : Resources used to develop these features can be found here.
