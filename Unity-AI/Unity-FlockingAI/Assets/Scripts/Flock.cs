@@ -42,6 +42,19 @@ public class Flock : MonoBehaviour
         }
     }
 
+    /*  What is happening here
+     * 
+     *      At instanciation all flock agents were added to a list which we now loop over in order to update the flock behaviours
+     *      FOREACH agents
+     *      We want to retrieve his neighbors and store them so we can pass them as arguments for the individual behaviours of the flocking AI
+     *      
+     *      Since we are using the Composite pattern, CompositeBehaviours aggregate the leaf behaviours that inherit from flockingbehaviours
+     *      and retrieve the FINAL vector
+     *      that represent the new position for the agent currently being processed
+     *      
+     *      we can then apply a "driveFactor" which represent the speed of the agent and update via the move function the agent itself
+     * 
+     */
     private void Update()
     {
         foreach (var agent in agents)
