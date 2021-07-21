@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "scriptable", menuName = "Flock/Behaviour/SteerCohesion")]
-public class SteerCohesionBehaviour : FlockBehaviour
+public class SteerCohesionBehaviour : FilteredFlockBehaviour
 {
     Vector2 current_velocity;
     float agent_smoothTime = 0.5f;
@@ -13,7 +13,7 @@ public class SteerCohesionBehaviour : FlockBehaviour
         else
         {
             Vector2 cohesionMove = new Vector2();
-            foreach (var item in context)
+            foreach (var item in filter != null ? filter.Filter(currAgent, context) : context)
             {
                 cohesionMove += (Vector2)item.position;
             }

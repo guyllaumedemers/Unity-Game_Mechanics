@@ -48,10 +48,10 @@ public class CompositeBehaviourEditor : Editor
             RemoveBehaviours(compBehav, weights);
         }
 
-        if (EditorGUI.EndChangeCheck())
-        {
-            EditorUtility.SetDirty(serialized_object.targetObject);
-        }
+        //if (EditorGUI.EndChangeCheck())
+        //{
+        //    EditorUtility.SetDirty(target);
+        //}
 
         EditorGUILayout.EndVertical();
         serialized_object.ApplyModifiedProperties();

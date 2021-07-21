@@ -10,14 +10,14 @@ public class CompositeBehaviour : FlockBehaviour
 
     private void Awake()
     {
-        behaviours = new FlockBehaviour[0];
-        weights = new float[0];
+        //behaviours = new FlockBehaviour[0];
+        //weights = new float[0];
     }
 
     private void Start()
     {
-        behaviours = Utilities.FindResources<FlockBehaviour>(Globals.flockbehaviours_path);
-        weights = new float[behaviours.Length];
+        //behaviours = Utilities.FindResources<FlockBehaviour>(Globals.flockbehaviours_path);
+        //weights = new float[behaviours.Length];
     }
 
     public override Vector2 CalculateMove(FlockAgent currAgent, List<Transform> context, Flock flock)

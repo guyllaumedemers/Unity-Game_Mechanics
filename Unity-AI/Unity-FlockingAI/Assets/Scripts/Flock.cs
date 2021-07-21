@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Flock : MonoBehaviour
 {
+    [SerializeField]
     FlockAgent prefab;
     List<FlockAgent> agents;
     FlockBehaviour flockBehav;
@@ -23,7 +24,7 @@ public class Flock : MonoBehaviour
 
     private void Awake()
     {
-        prefab = Utilities.FindResources<FlockAgent>(Globals.prefab_path).FirstOrDefault();
+        //prefab = Utilities.FindResources<FlockAgent>(Globals.prefab_path).FirstOrDefault();
         flockBehav = Utilities.FindResources<FlockBehaviour>(Globals.scriptable_path).FirstOrDefault();
         agents = new List<FlockAgent>();
     }
@@ -35,6 +36,7 @@ public class Flock : MonoBehaviour
             FlockAgent newAgent = Instantiate(prefab, Random.insideUnitCircle * starting_count * AgentDensity,
                 Quaternion.Euler(Vector3.forward * Random.Range(0.0f, 360.0f)), transform);
             newAgent.name = "Agent " + i;
+            newAgent.InitializeFlock(this);
             agents.Add(newAgent);
         }
     }

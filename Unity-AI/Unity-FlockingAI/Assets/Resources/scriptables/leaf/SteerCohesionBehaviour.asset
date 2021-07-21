@@ -12,3 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f361de5b30be4e4fbfc719ae9ab42bc, type: 3}
   m_Name: SteerCohesionBehaviour
   m_EditorClassIdentifier: 
+  filter: {fileID: 11400000, guid: 29d23336c18dee14493013e9005a6390, type: 2}
