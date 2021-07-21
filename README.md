@@ -28,11 +28,11 @@ NOTE : This project has for objective of setting up in place a combo system that
 
 ### AI Mechanics
 
-*  Flocking AI (*WIP*)
+*  Flocking AI (*using the Composite Pattern*)
 
 ### Design Pattern and Memory Optimization
 
-*  Composite Pattern (*inside the Flocking AI project*)
+*  Composite Pattern
 
 ```
 NOTE : Resources used to develop these features can be found here.
@@ -41,4 +41,5 @@ NOTE : Resources used to develop these features can be found here.
 ## Resources
 
 💬 References for patterns are given from : [Design Patterns: Elements of Reusable Object‑Oriented Software](https://www.amazon.ca/-/fr/Gamma-Erich-ebook/dp/B000SEIBB8) </br>
-💬 Flocking AI Youtube Tutorial can be found here : [Board To Bits Games](https://www.youtube.com/playlist?list=PL5KbKbJ6Gf99UlyIqzV1UpOzseyRn5H1d)
+💬 Flocking AI Youtube Tutorial can be found here : [Board To Bits Games](https://www.youtube.com/playlist?list=PL5KbKbJ6Gf99UlyIqzV1UpOzseyRn5H1d) </br>
+💬 Flocking AI Craig Reynolds : [Craig Reynolds Boids Paper](https://www.red3d.com/cwr/boids/)
