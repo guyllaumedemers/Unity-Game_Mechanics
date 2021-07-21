@@ -4,20 +4,20 @@ using UnityEngine;
 [CustomEditor(typeof(CompositeBehaviour))]
 public class CompositeBehaviourEditor : Editor
 {
-    SerializedObject classObject;
+    SerializedObject serialized_object;
     SerializedProperty compBehav;
     SerializedProperty weights;
 
     private void OnEnable()
     {
-        classObject = new SerializedObject(target);
-        compBehav = classObject.FindProperty("behaviours");
-        weights = classObject.FindProperty("weights");
+        serialized_object = new SerializedObject(target);
+        compBehav = serialized_object.FindProperty(Globals.behaviours);
+        weights = serialized_object.FindProperty(Globals.weights);
     }
 
     public override void OnInspectorGUI()
     {
-        classObject.Update();
+        serialized_object.Update();
         EditorGUIUtility.labelWidth = 100.0f;
 
         EditorGUILayout.BeginVertical();
@@ -40,23 +40,27 @@ public class CompositeBehaviourEditor : Editor
 
         if (GUILayout.Button(new GUIContent("Add Behaviours")))
         {
-            AddBehaviours();
+            AddBehaviours(compBehav);
+            AddBehaviours(weights);
         }
         else if (GUILayout.Button(new GUIContent("Remove Behaviours")))
         {
-            RemoveBehaviours();
+            RemoveBehaviours(compBehav);
+            RemoveBehaviours(weights);
         }
 
         EditorGUILayout.EndVertical();
-        classObject.ApplyModifiedProperties();
+        serialized_object.ApplyModifiedProperties();
     }
 
-    private void AddBehaviours()
+    private void AddBehaviours(SerializedProperty orig)
     {
-        Debug.Log("Add Behaviour");
+        orig.arraySize += 1;
+        orig.GetArrayElementAtIndex(orig.arraySize - 1).objectReferenceValue = default;
     }
-    private void RemoveBehaviours()
+    private void RemoveBehaviours(SerializedProperty orig)
     {
-        Debug.Log("Remove Behaviour");
+        if (orig.arraySize <= 0) return;
+        orig.DeleteArrayElementAtIndex(orig.arraySize - 1);
     }
 }
