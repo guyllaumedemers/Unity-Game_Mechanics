@@ -47,6 +47,11 @@ public class CompositeBehaviourEditor : Editor
             RemoveBehaviours(compBehav, weights);
         }
 
+        if (EditorGUI.EndChangeCheck())
+        {
+            EditorUtility.SetDirty(serialized_object.targetObject);
+        }
+
         EditorGUILayout.EndVertical();
         serialized_object.ApplyModifiedProperties();
     }
@@ -63,7 +68,7 @@ public class CompositeBehaviourEditor : Editor
     }
     private void RemoveBehaviours(params SerializedProperty[] orig)
     {
-        if (orig.Length <= 1) return;
+        if (orig.Length < 2) return;
 
         orig[0].DeleteArrayElementAtIndex(orig[0].arraySize - 1);
         orig[1].DeleteArrayElementAtIndex(orig[1].arraySize - 1);

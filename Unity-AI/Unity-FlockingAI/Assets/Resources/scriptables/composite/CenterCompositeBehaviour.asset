@@ -10,13 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7321b6e9b6a1423459d4013c0de19613, type: 3}
-  m_Name: DefaultCompositeBehaviour
+  m_Name: CenterCompositeBehaviour
   m_EditorClassIdentifier: 
   behaviours:
   - {fileID: 11400000, guid: f3234de51a81af74a807e98dc18753de, type: 2}
   - {fileID: 11400000, guid: 56b4b822496ac044fa9c0286f6657956, type: 2}
   - {fileID: 11400000, guid: a50c6afd7ba05f04ea960234d39bd684, type: 2}
+  - {fileID: 11400000, guid: ba54cbad5107de3429f64efbf4fa056c, type: 2}
   weights:
   - 1
   - 2
   - 4
+  - 0.1
+  - 0
+  - 0

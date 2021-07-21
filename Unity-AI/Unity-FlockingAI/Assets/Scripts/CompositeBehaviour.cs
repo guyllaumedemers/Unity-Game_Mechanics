@@ -6,11 +6,18 @@ public class CompositeBehaviour : FlockBehaviour
 {
     [SerializeField]
     FlockBehaviour[] behaviours;
-    public float[] weights = new float[3];
+    public float[] weights;
+
+    private void Awake()
+    {
+        behaviours = new FlockBehaviour[0];
+        weights = new float[0];
+    }
 
     private void Start()
     {
         behaviours = Utilities.FindResources<FlockBehaviour>(Globals.flockbehaviours_path);
+        weights = new float[behaviours.Length];
     }
 
     public override Vector2 CalculateMove(FlockAgent currAgent, List<Transform> context, Flock flock)
