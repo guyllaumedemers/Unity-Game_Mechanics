@@ -20,6 +20,12 @@ NOTE : This project is broken down into multiples folders, each representing a s
 
 *  Combo System (*WIP*)
 
+```
+NOTE : This project has for objective of setting up in place a combo system that register input keys from a players, compare those inputs 
+       to a list of posssible combos and toss the last register key inputs if no match are found inside the hashset of unique combos OR perform
+       last valid combo if the last input register time is greater than the maxTime allowed to register the next input.
+```
+
 ### AI Mechanics
 
 *  Flocking AI (*WIP*)
