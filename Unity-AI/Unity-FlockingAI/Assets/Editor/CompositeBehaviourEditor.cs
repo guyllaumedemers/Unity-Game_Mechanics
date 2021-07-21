@@ -17,6 +17,7 @@ public class CompositeBehaviourEditor : Editor
 
     public override void OnInspectorGUI()
     {
+        //DrawDefaultInspector();
         serialized_object.Update();
         EditorGUIUtility.labelWidth = 100.0f;
 
