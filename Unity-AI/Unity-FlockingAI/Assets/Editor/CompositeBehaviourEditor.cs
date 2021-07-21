@@ -40,27 +40,32 @@ public class CompositeBehaviourEditor : Editor
 
         if (GUILayout.Button(new GUIContent("Add Behaviours")))
         {
-            AddBehaviours(compBehav);
-            AddBehaviours(weights);
+            AddBehaviours(compBehav, weights);
         }
         else if (GUILayout.Button(new GUIContent("Remove Behaviours")))
         {
-            RemoveBehaviours(compBehav);
-            RemoveBehaviours(weights);
+            RemoveBehaviours(compBehav, weights);
         }
 
         EditorGUILayout.EndVertical();
         serialized_object.ApplyModifiedProperties();
     }
 
-    private void AddBehaviours(SerializedProperty orig)
+    private void AddBehaviours(params SerializedProperty[] orig)
     {
-        orig.arraySize += 1;
-        orig.GetArrayElementAtIndex(orig.arraySize - 1).objectReferenceValue = default;
+        if (orig.Length < 2) return;
+
+        orig[0].arraySize += 1;
+        orig[0].GetArrayElementAtIndex(orig[0].arraySize - 1).objectReferenceValue = default;
+
+        orig[1].arraySize += 1;
+        orig[1].GetArrayElementAtIndex(orig[1].arraySize - 1).floatValue = 0;
     }
-    private void RemoveBehaviours(SerializedProperty orig)
+    private void RemoveBehaviours(params SerializedProperty[] orig)
     {
-        if (orig.arraySize <= 0) return;
-        orig.DeleteArrayElementAtIndex(orig.arraySize - 1);
+        if (orig.Length <= 1) return;
+
+        orig[0].DeleteArrayElementAtIndex(orig[0].arraySize - 1);
+        orig[1].DeleteArrayElementAtIndex(orig[1].arraySize - 1);
     }
 }
