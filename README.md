@@ -26,6 +26,7 @@ NOTE : This project has for objective of setting up in place a combo system that
        to a list of posssible combos and toss the last register key inputs if no match are found inside the hashset of unique combos OR perform
        last valid combo if the last input register time is greater than the maxTime allowed to register the next input.
 ```
+* UI (*testing how to properly implmeent a UI that fit every ratio with content size fitter and Layout Element component*)
 
 ### AI Mechanics
 
