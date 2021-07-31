@@ -15,7 +15,7 @@ NOTE : This project is broken down into multiples folders, each representing a s
 
 * [Assets/Scripts/FlockingAI](https://github.com/guyllaumedemers/Unity-Game_Mechanics/tree/master/Unity-AI/Unity-FlockingAI/Assets/Scripts) : Flocking AI Scripts
 * [Assets/Scripts/ComboSystem](https://github.com/guyllaumedemers/Unity-Game_Mechanics/tree/master/Unity-Gameplay/Unity-Fighting_Mechanics/Assets/Scripts) : Combo System Scripts
-* * [Assets/Scripts/Algorithm](https://github.com/guyllaumedemers/Unity-Game_Mechanics/tree/master/Unity-Algorithm/Unity-RecursiveBacktracker_Maze/Assets/Scripts) : Iterative Backtracker Scripts
+* [Assets/Scripts/IterativeMazeGeneration](https://github.com/guyllaumedemers/Unity-Game_Mechanics/tree/master/Unity-Algorithm/Unity-IterativeBacktracker_Maze/Assets/Scripts) : Iterative Backtracker Scripts
 
 ### Game Mechanics and Features
 
