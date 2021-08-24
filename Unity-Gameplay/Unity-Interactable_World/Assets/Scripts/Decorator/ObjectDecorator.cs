@@ -12,7 +12,7 @@ public abstract class ObjectDecorator : IInteractable
 
     public virtual void PlayInteraction()
     {
-        Debug.Log("Object Decorator interaction Action");   // THIS LINE SHOULD NEVER BE OUTPUTED
+        Debug.Log("Object Decorator interaction Action");
         instance.PlayInteraction();
     }
 }

@@ -5,7 +5,7 @@ public class ObjectComponent : MonoBehaviour, IInteractable
 {
     protected List<ObjectDecorator> Modifiers = new List<ObjectDecorator>();
 
-    protected void OnTriggerEnter(Collider collider)
+    protected virtual void OnTriggerEnter(Collider collider)
     {
         if (this.gameObject.tag.Equals("InteractableObject") && collider.tag.Equals("Player"))  // ONLY ALLOW Player Interaction with object,
                                                                                                 // we dont want NPC to activate traps
