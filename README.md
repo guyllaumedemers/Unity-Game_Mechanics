@@ -30,7 +30,7 @@ NOTE : This project has for objective of setting up in place a combo system that
 * Interactive World (*Trigger System*)
 ```
 NOTE : This project has for objective of setting up in place a System that easily manage behaviour for world object interactions
-       using the *Decorator Pattern*.
+       using the Decorator Pattern.
        Objects will be trigger via the Collision System and see their behaviour updated according to the collider that interact with them
        using OnTriggerEnter.
        WHY? NPC do not interact with world object the same way a player does. NPC do not trigger traps but instead trigger alternative behaviours
