@@ -15,6 +15,7 @@ NOTE : This project is broken down into multiples folders, each representing a s
 
 * [Assets/Scripts/FlockingAI](https://github.com/guyllaumedemers/Unity-Game_Mechanics/tree/master/Unity-AI/Unity-FlockingAI/Assets/Scripts) : Flocking AI Scripts
 * [Assets/Scripts/ComboSystem](https://github.com/guyllaumedemers/Unity-Game_Mechanics/tree/master/Unity-Gameplay/Unity-Fighting_Mechanics/Assets/Scripts) : Combo System Scripts
+* [Assets/Scripts/InteractiveWorld](https://github.com/guyllaumedemers/Unity-Game_Mechanics/tree/master/Unity-Gameplay/Unity-Interactable_World/Assets/Scripts) : Interactive World - Triggering Behaviour using Decorator Pattern
 * [Assets/Scripts/IterativeMazeGeneration](https://github.com/guyllaumedemers/Unity-Game_Mechanics/tree/master/Unity-Algorithm/Unity-IterativeBacktracker_Maze/Assets/Scripts) : Iterative Backtracker Scripts
 * [Assets/ResultingUI/...](https://github.com/guyllaumedemers/Unity-Game_Mechanics/tree/master/Unity-UI/Unity-UI_Hitman_ContentSizeFitter_Testing/ResultingUI_WithAspectRatio) : UI Content Size Fitter / Layout Element Components Testing - Screenshots
 
