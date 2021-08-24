@@ -6,8 +6,6 @@ public class VortexTriggerComponent : ObjectComponent
 {
     private VisualEffect vfxgraph;
 
-    public object Matrix4x4 { get; private set; }
-
     private void Awake()
     {
         vfxgraph = FindObjectsOfType<VisualEffect>().Where(x => x.tag.Equals("Portal")).FirstOrDefault();
