@@ -71,3 +71,347 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 .idea/
 
+Unity-VR/Unity-VR_Getting_Started/.vsconfig
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/Forceling.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/Forceling/ForcelingWorldGrid.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/Forceling/ForcelingWorldGrid/Forceling_Grid_1000m.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/Forceling/ForcelingWorldGrid/Forceling_Grid_1000m.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/Forceling/ForcelingWorldGrid/Forceling_Grid_100m.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/Forceling/ForcelingWorldGrid/Forceling_Grid_100m.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/Forceling/ForcelingWorldGrid/Forceling_Grid_10m.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/Forceling/ForcelingWorldGrid/Forceling_Grid_10m.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/Forceling/ForcelingWorldGrid/Forceling_Grid_1m.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/Forceling/ForcelingWorldGrid/Forceling_Grid_1m.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/Forceling/ForcelingWorldGrid/Forceling_WorldGrid.mat
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/Forceling/ForcelingWorldGrid/Forceling_WorldGrid.mat.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/Forceling/ForcelingWorldGrid/Forceling_WorldGrid.shader
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/Forceling/ForcelingWorldGrid/Forceling_WorldGrid.shader.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/Forceling/ForcelingWorldGrid/Forceling_WorldGrid_LWRP.mat
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/Forceling/ForcelingWorldGrid/Forceling_WorldGrid_LWRP.mat.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/Forceling/ForcelingWorldGrid/Forceling_WorldGrid_LWRP.shader
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/Forceling/ForcelingWorldGrid/Forceling_WorldGrid_LWRP.shader.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Advertising_Label.mat
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Advertising_Label.mat.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Ball.mat
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Ball.mat.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Barbell.mat
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Barbell.mat.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Boxing_Bag_01.mat
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Boxing_Bag_01.mat.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Boxing_Bag_02.mat
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Boxing_Bag_02.mat.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Boxing_Gloves_01.mat
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Boxing_Gloves_01.mat.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Boxing_Gloves_02.mat
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Boxing_Gloves_02.mat.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Boxing_Gloves_03.mat
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Boxing_Gloves_03.mat.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Cloth.mat
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Cloth.mat.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Concrete_01.mat
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Concrete_01.mat.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Concrete_02.mat
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Concrete_02.mat.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Ladder.mat
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Ladder.mat.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Parquet.mat
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Parquet.mat.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Ring.mat
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Materials/Ring.mat.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Advertising_Label_01.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Advertising_Label_01.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Advertising_Label_02.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Advertising_Label_02.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Advertising_Label_03.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Advertising_Label_03.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Advertising_Label_04.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Advertising_Label_04.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Ball.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Ball.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Barbell.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Barbell.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Boxing_Bag_01.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Boxing_Bag_01.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Boxing_Bag_02.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Boxing_Bag_02.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Boxing_Bag_03.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Boxing_Bag_03.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Boxing_Gloves_01_Left.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Boxing_Gloves_01_Left.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Boxing_Gloves_01_Right.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Boxing_Gloves_01_Right.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Cloth.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Cloth.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Holder_Bag.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Holder_Bag.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Holder_Bag_02.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Holder_Bag_02.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Kettlebell_16_Kg.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Kettlebell_16_Kg.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Kettlebell_32_Kg.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Kettlebell_32_Kg.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Ladder.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Ladder.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Luminaire.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Luminaire.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Ring.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Ring.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Room.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Room.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Stairs.fbx
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Models/Stairs.fbx.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Other.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Other/LODGroup.preset
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Other/LODGroup.preset.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Other/Post-processing Profile.asset
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Other/Post-processing Profile.asset.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Other/SimpleCameraController.cs
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Other/SimpleCameraController.cs.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Advertising_Label_01.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Advertising_Label_01.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Advertising_Label_02.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Advertising_Label_02.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Advertising_Label_03.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Advertising_Label_03.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Advertising_Label_04.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Advertising_Label_04.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Ball.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Ball.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Barbell.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Barbell.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Boxing_Bag_01.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Boxing_Bag_01.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Boxing_Bag_02.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Boxing_Bag_02.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Boxing_Bag_03.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Boxing_Bag_03.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Boxing_Gloves_01_Left.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Boxing_Gloves_01_Left.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Boxing_Gloves_01_Right.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Boxing_Gloves_01_Right.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Boxing_Gloves_02_Left.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Boxing_Gloves_02_Left.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Boxing_Gloves_02_Right.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Boxing_Gloves_02_Right.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Boxing_Gloves_03_Left.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Boxing_Gloves_03_Left.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Boxing_Gloves_03_Right.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Boxing_Gloves_03_Right.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Cloth.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Cloth.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Holder_Bag.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Holder_Bag.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Holder_Bag_02.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Holder_Bag_02.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Kettlebell_16_Kg.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Kettlebell_16_Kg.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Kettlebell_32_Kg.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Kettlebell_32_Kg.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Ladder.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Ladder.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Luminaire.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Luminaire.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Ring.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Ring.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Room.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Room.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Stairs.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Prefabs/Stairs.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Scenes.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Scenes/VR_Box.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Scenes/VR_Box.unity
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Scenes/VR_Box.unity.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Scenes/VR_Box/LightingData.asset
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Scenes/VR_Box/LightingData.asset.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Scenes/VR_Box/Lightmap-0_comp_dir.png
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Scenes/VR_Box/Lightmap-0_comp_dir.png.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Scenes/VR_Box/Lightmap-0_comp_light.exr
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Scenes/VR_Box/Lightmap-0_comp_light.exr.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Scenes/VR_Box/Lightmap-0_comp_shadowmask.png
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Scenes/VR_Box/Lightmap-0_comp_shadowmask.png.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Scenes/VR_Box/ReflectionProbe-0.exr
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Scenes/VR_Box/ReflectionProbe-0.exr.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Scenes/VR_BoxSettings.lighting
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Scenes/VR_BoxSettings.lighting.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Advertising_Label.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Advertising_Label/Advertising_Label_A.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Advertising_Label/Advertising_Label_A.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Advertising_Label/Advertising_Label_MS.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Advertising_Label/Advertising_Label_MS.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Advertising_Label/Advertising_Label_N.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Advertising_Label/Advertising_Label_N.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/AE_Glass_N.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/AE_Glass_N.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ball.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ball/Ball_A.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ball/Ball_A.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ball/Ball_AO.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ball/Ball_AO.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ball/Ball_MS.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ball/Ball_MS.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ball/Ball_N.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ball/Ball_N.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Barbell.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Barbell/Barbell_A.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Barbell/Barbell_A.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Barbell/Barbell_AO.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Barbell/Barbell_AO.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Barbell/Barbell_E.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Barbell/Barbell_E.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Barbell/Barbell_MS.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Barbell/Barbell_MS.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Barbell/Barbell_N.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Barbell/Barbell_N.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Bag_01.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Bag_01/Boxing_Bag_01_A.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Bag_01/Boxing_Bag_01_A.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Bag_01/Boxing_Bag_01_AO.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Bag_01/Boxing_Bag_01_AO.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Bag_01/Boxing_Bag_01_MS.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Bag_01/Boxing_Bag_01_MS.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Bag_01/Boxing_Bag_01_N.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Bag_01/Boxing_Bag_01_N.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Bag_02.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Bag_02/Boxing_Bag_02_A.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Bag_02/Boxing_Bag_02_A.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Bag_02/Boxing_Bag_02_AO.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Bag_02/Boxing_Bag_02_AO.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Bag_02/Boxing_Bag_02_MS.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Bag_02/Boxing_Bag_02_MS.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Bag_02/Boxing_Bag_02_N.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Bag_02/Boxing_Bag_02_N.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_01.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_01/Boxing_Gloves_01_A.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_01/Boxing_Gloves_01_A.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_01/Boxing_Gloves_01_AO.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_01/Boxing_Gloves_01_AO.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_01/Boxing_Gloves_01_MS.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_01/Boxing_Gloves_01_MS.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_01/Boxing_Gloves_01_N.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_01/Boxing_Gloves_01_N.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_02.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_02/Boxing_Gloves_01_A.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_02/Boxing_Gloves_01_A.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_02/Boxing_Gloves_01_AO.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_02/Boxing_Gloves_01_AO.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_02/Boxing_Gloves_01_MS.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_02/Boxing_Gloves_01_MS.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_02/Boxing_Gloves_01_N.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_02/Boxing_Gloves_01_N.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_03.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_03/Boxing_Gloves_01_A.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_03/Boxing_Gloves_01_A.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_03/Boxing_Gloves_01_AO.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_03/Boxing_Gloves_01_AO.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_03/Boxing_Gloves_01_MS.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_03/Boxing_Gloves_01_MS.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_03/Boxing_Gloves_01_N.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Boxing_Gloves_03/Boxing_Gloves_01_N.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Cloth.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Cloth/Cloth_A.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Cloth/Cloth_A.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Cloth/Cloth_MS.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Cloth/Cloth_MS.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Cloth/Cloth_N.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Cloth/Cloth_N.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Concrete_01.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Concrete_01/Concrete_01_A.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Concrete_01/Concrete_01_A.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Concrete_01/Concrete_01_AO.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Concrete_01/Concrete_01_AO.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Concrete_01/Concrete_01_MS.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Concrete_01/Concrete_01_MS.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Concrete_01/Concrete_01_N.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Concrete_01/Concrete_01_N.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Concrete_02.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Concrete_02/Concrete_02_A.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Concrete_02/Concrete_02_A.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Concrete_02/Concrete_02_MS.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Concrete_02/Concrete_02_MS.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Concrete_02/Concrete_02_N.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Concrete_02/Concrete_02_N.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ladder.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ladder/Ladder_A.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ladder/Ladder_A.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ladder/Ladder_AO.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ladder/Ladder_AO.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ladder/Ladder_MS.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ladder/Ladder_MS.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ladder/Ladder_N.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ladder/Ladder_N.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Parquet.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Parquet/Parquet_A.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Parquet/Parquet_A.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Parquet/Parquet_MS.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Parquet/Parquet_MS.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Parquet/Parquet_N.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Parquet/Parquet_N.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ring.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ring/Ring_A.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ring/Ring_A.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ring/Ring_AO.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ring/Ring_AO.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ring/Ring_MS.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ring/Ring_MS.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ring/Ring_N.tga
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/Models and Materials/VR_Box/Textures/Ring/Ring_N.tga.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/XR.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/XR/Loaders.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/XR/Loaders/Oculus Loader.asset
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/XR/Loaders/Oculus Loader.asset.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/XR/Settings.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/XR/Settings/Oculus Settings.asset
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/XR/Settings/Oculus Settings.asset.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/XR/XRGeneralSettings.asset
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Imports/XR/XRGeneralSettings.asset.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Inputs.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Prefabs.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Prefabs/XR Prefabs.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Prefabs/XR Prefabs/XR Interaction Manager.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Prefabs/XR Prefabs/XR Interaction Manager.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Prefabs/XR Prefabs/XR Rig.prefab
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/Prefabs/XR Prefabs/XR Rig.prefab.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/URP.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/URP/UniversalRenderPipelineAsset.asset
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/URP/UniversalRenderPipelineAsset.asset.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/URP/UniversalRenderPipelineAsset_Renderer.asset
+Unity-VR/Unity-VR_Getting_Started/Assets/Resources/URP/UniversalRenderPipelineAsset_Renderer.asset.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Scenes.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Scenes/dev_scene.unity
+Unity-VR/Unity-VR_Getting_Started/Assets/Scenes/dev_scene.unity.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Scripts.meta
+Unity-VR/Unity-VR_Getting_Started/Assets/Scripts/AvatarMovement.cs
+Unity-VR/Unity-VR_Getting_Started/Assets/Scripts/AvatarMovement.cs.meta
+Unity-VR/Unity-VR_Getting_Started/Packages/manifest.json
+Unity-VR/Unity-VR_Getting_Started/Packages/packages-lock.json
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/AudioManager.asset
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/ClusterInputManager.asset
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/DynamicsManager.asset
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/EditorBuildSettings.asset
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/EditorSettings.asset
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/GraphicsSettings.asset
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/InputManager.asset
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/NavMeshAreas.asset
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/PackageManagerSettings.asset
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/Packages/com.unity.probuilder/Settings.json
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/Physics2DSettings.asset
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/PresetManager.asset
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/ProjectSettings.asset
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/ProjectVersion.txt
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/QualitySettings.asset
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/TagManager.asset
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/TimeManager.asset
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/UnityConnectSettings.asset
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/URPProjectSettings.asset
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/VersionControlSettings.asset
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/VFXManager.asset
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/XRPackageSettings.asset
+Unity-VR/Unity-VR_Getting_Started/ProjectSettings/XRSettings.asset
